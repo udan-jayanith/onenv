@@ -1,21 +1,26 @@
 {
-  "name": "onenv",
-  "displayName": "OneNv",
-  "description": "A color theme inspired by NeoVim’s OneNv. OneNv provides balanced contrast and clear syntax highlighting for a clean and efficient coding experience.",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.96.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "OneNv",
-        "uiTheme": "vs-dark",
-        "path": "./themes/OneNv-color-theme.json"
-      }
-    ]
-  }
+	"name": "onenv",
+	"displayName": "OneNv",
+	"description": "A color theme inspired by NeoVim’s OneNv. OneNv provides balanced contrast and clear syntax highlighting for a clean and efficient coding experience.",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.96.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "OneNv",
+				"uiTheme": "vs-dark",
+				"path": "./themes/OneNv-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/udan-jayanith/onenv.git"
+	},
+	"license": "MIT"
 }
