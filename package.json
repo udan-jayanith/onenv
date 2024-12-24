@@ -1,8 +1,9 @@
 {
 	"name": "onenv",
 	"displayName": "OneNv",
+	"icon": "OneNv.png",
 	"description": "A color theme inspired by NeoVim’s OneNv. OneNv provides balanced contrast and clear syntax highlighting for a clean and efficient coding experience.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "udan-jayanith-jayakody",
 	"engines": {
 		"vscode": "^1.96.0"
