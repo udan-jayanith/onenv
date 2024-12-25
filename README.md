@@ -1,16 +1,40 @@
-# onenv README
+# OneNvTheme 🌌
 
-## Working with Markdown
+**OneNvTheme** is a sleek, dark VS Code theme designed for developers who love a clean, minimalist interface. Its carefully chosen colors aim to reduce eye strain while enhancing code readability.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Features ✨
+- A modern, developer-friendly color palette.
+- Optimized for readability and focus.
+- Subtle highlights for syntax and UI elements.
+- Works perfectly with light and dark environments.
 
-## For more information
+---
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Preview 🖼️
+### 1. Welcome page
+![Welcome page](./images/welcome.png)
 
-**Enjoy!**
+### 1. Editor with JavaScript
+![JavaScript](./images/js.png)
+
+### 2. Terminal Styling
+![Terminal](./images/terminal.png)
+
+### 3. Sidebar and File Explorer
+![Sidebar](./images/side-bar.png)
+
+### 4. HTML and CSS
+![html and css](./images/html-and-css.png)
+
+
+---
+
+## Feedback and Contributions 💡
+Feel free to open issues or submit pull requests for improvements and bug fixes. Your contributions are welcome!
+
+---
+
+## License 📜
+This theme is licensed under the [MIT License](./LICENSE.md).
