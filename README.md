@@ -18,7 +18,7 @@
 ![JavaScript](./images/js.png)
 
 ### 3. Terminal
-![Terminal](./images/terminal.png)
+![Terminal](./images/terminal-pre.png)
 
 ### 4. Sidebar and File Explorer
 ![Sidebar](./images/side-bar.png)
