@@ -14,16 +14,16 @@
 ### 1. Welcome page
 ![Welcome page](./images/welcome.png)
 
-### 1. Editor with JavaScript
+### 2. Editor with JavaScript
 ![JavaScript](./images/js.png)
 
-### 2. Terminal
+### 3. Terminal
 ![Terminal](./images/terminal.png)
 
-### 3. Sidebar and File Explorer
+### 4. Sidebar and File Explorer
 ![Sidebar](./images/side-bar.png)
 
-### 4. HTML and CSS
+### 5. HTML and CSS
 ![html and css](./images/html-and-css.png)
 
 
