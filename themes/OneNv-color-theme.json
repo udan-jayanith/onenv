@@ -1,3 +1,16 @@
+/*
+background: 161b22
+sec: 0d1117
+accent: 21262d
+foreground: ecf2f8
+inactiveText: 868686f8
+editorCursor: E5C07B
+editorIndentGuide: 385977
+Badge: 61AFEF
+editorLineNumberActiveForeground: 61AFEF
+editor.selectionBackground: 3E4451
+Hover: 21262d
+*/
 {
 	"name": "OneNv",
 	"colors": {
@@ -135,7 +148,7 @@
 		"terminal.ansiWhite": "#ecf2f8",
 		"terminal.ansiYellow": "#ffcb6b",
 		"terminal.background": "#161b22",
-		"terminal.foreground": "#ecf2f8",
+		"terminal.foreground": "#ecf2f8" ,
 		"terminal.inactiveSelectionBackground": "#3a3d41",
 		"terminal.tab.activeBorder": "#61afef",
 		"terminalCursor.foreground": "#e5c07b",
@@ -154,7 +167,11 @@
 		"titleBar.inactiveForeground": "#ecf2f8",
 		"welcomePage.progress.foreground": "#d40000",
 		"welcomePage.tileBackground": "#0d1117",
-		"widget.border": "#21262d"
+		"widget.border": "#21262d",
+		"quickInputList.focusBackground": "#21262d",
+		"quickInputList.focusForeground": "#ecf2f8",
+		"quickInputList.focusIconForeground": "#ecf2f8",
+		"quickInputTitle.background": "#ecf2f8",
 		//"activityBar.dropBorder": "#ecf2f8",
 		//"activityBarTop.activeBorder": "#e7e7e7",
 		//"activityBarTop.dropBorder": "#e7e7e7",
@@ -550,10 +567,6 @@
 		//"profileBadge.background": "#4d4d4d",
 		//"profileBadge.foreground": "#ffffff",
 		//"profiles.sashBorder": "#21262d",
-		//"quickInputList.focusBackground": "#04395e",
-		//"quickInputList.focusForeground": "#ffffff",
-		//"quickInputList.focusIconForeground": "#ecf2f8",
-		//"quickInputTitle.background": "#ffffff1b",
 		//"radio.activeBackground": "#61afef",
 		//"radio.activeBorder": "#21262d",
 		//"radio.activeForeground": "#ffffff",
